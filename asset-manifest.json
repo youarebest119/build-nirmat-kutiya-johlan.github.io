@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c763d3c.css",
-    "main.js": "/static/js/main.5ff30f27.js",
+    "main.css": "/static/css/main.5ab5edc3.css",
+    "main.js": "/static/js/main.76206ba0.js",
     "static/js/787.b27e6ff2.chunk.js": "/static/js/787.b27e6ff2.chunk.js",
     "static/media/background.png": "/static/media/background.2440fdd80b96f5ef1201.png",
     "static/media/main_banner.svg": "/static/media/main_banner.df8347e206489cfef0216ee102e77e07.svg",
@@ -10,20 +10,33 @@
     "static/media/Baba Harbhajan Singh Ji.png": "/static/media/Baba Harbhajan Singh Ji.1709f7544b6cd732e151.png",
     "static/media/Baba Basant Singh Ji.png": "/static/media/Baba Basant Singh Ji.9e82eb794502b04a54a6.png",
     "static/media/Baba Jeet Singh Ji.png": "/static/media/Baba Jeet Singh Ji.345d0a32a7c239812ee7.png",
+    "static/media/basantji.jpg": "/static/media/basantji.4ee17f1718f048f4d78a.jpg",
+    "static/media/nirmalas.jpg": "/static/media/nirmalas.6b02b7f9901d64b146c0.jpg",
+    "static/media/langar.jpg": "/static/media/langar.1563751fc18ec784a80c.jpg",
+    "static/media/langarNew.jpg": "/static/media/langarNew.01e188e14d4c07f4d5d9.jpg",
     "static/media/banner.png": "/static/media/banner.792e8703aa7fb48da0b5.png",
+    "static/media/harnamji.jpg": "/static/media/harnamji.a8b8604f3e862b5025eb.jpg",
+    "static/media/sheesh.jpg": "/static/media/sheesh.c982ad870fd1f7b3b11e.jpg",
+    "static/media/bhekh.jpg": "/static/media/bhekh.784df2367e42dde276ce.jpg",
+    "static/media/well.jpg": "/static/media/well.d68f9c849405848d5617.jpg",
     "static/media/karmic_sanj_bold-webfont.woff": "/static/media/karmic_sanj_bold-webfont.00b941413da2789722dd.woff",
+    "static/media/sachkhand.jpg": "/static/media/sachkhand.1947e5d8ca07040adc81.jpg",
     "static/media/karmic_sanj_bold-webfont.woff2": "/static/media/karmic_sanj_bold-webfont.ccf83d0e8116ff0c33a3.woff2",
     "static/media/sample-gallery (3).jpg": "/static/media/sample-gallery (3).e5fc5e9a474d9193af3a.jpg",
     "static/media/sample-gallery (1).jpg": "/static/media/sample-gallery (1).47bf2612f45db4febc0a.jpg",
+    "static/media/darbar.jpg": "/static/media/darbar.089daa09cb4b75309bb0.jpg",
+    "static/media/diwan.jpg": "/static/media/diwan.b7ae452d1f2335129872.jpg",
     "static/media/logo-johlan.png": "/static/media/logo-johlan.7302fd709311a8cb390d.png",
     "static/media/sample-gallery (2).jpg": "/static/media/sample-gallery (2).47d08ab9ddbc17b2cf0f.jpg",
     "index.html": "/index.html",
-    "main.9c763d3c.css.map": "/static/css/main.9c763d3c.css.map",
-    "main.5ff30f27.js.map": "/static/js/main.5ff30f27.js.map",
+    "static/media/right-icon.svg": "/static/media/right-icon.57ce8960ea5a00625146.svg",
+    "static/media/down-icon.svg": "/static/media/down-icon.1934aa63141a9ec1c1e2.svg",
+    "main.5ab5edc3.css.map": "/static/css/main.5ab5edc3.css.map",
+    "main.76206ba0.js.map": "/static/js/main.76206ba0.js.map",
     "787.b27e6ff2.chunk.js.map": "/static/js/787.b27e6ff2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c763d3c.css",
-    "static/js/main.5ff30f27.js"
+    "static/css/main.5ab5edc3.css",
+    "static/js/main.76206ba0.js"
   ]
 }
