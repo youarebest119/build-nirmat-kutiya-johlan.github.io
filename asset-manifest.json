@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0671e6c8.css",
-    "main.js": "/static/js/main.9cc6ca4f.js",
+    "main.css": "/static/css/main.ee2511ed.css",
+    "main.js": "/static/js/main.106eb034.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.cbf29056.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.493001d7.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.868b9a7d.chunk.js",
@@ -16,19 +16,19 @@
     "reactPlayerFilePlayer.js": "/static/js/reactPlayerFilePlayer.0a9f46fa.chunk.js",
     "reactPlayerPreview.js": "/static/js/reactPlayerPreview.b520dffc.chunk.js",
     "static/js/787.b27e6ff2.chunk.js": "/static/js/787.b27e6ff2.chunk.js",
-    "static/media/background.png": "/static/media/background.2440fdd80b96f5ef1201.png",
-    "static/media/guruduwara.jpg": "/static/media/guruduwara.a34025b7e5fc84dcf3c6.jpg",
     "static/media/5.jpg": "/static/media/5.72ca0333ef7b8eb45987.jpg",
+    "static/media/guruduwara.jpg": "/static/media/guruduwara.6ffbb20a4a621e8b8999.jpg",
     "static/media/1.jpg": "/static/media/1.4bd30a4b94b78de731f6.jpg",
+    "static/media/background.png": "/static/media/background.d075d51d7a6ab72d970e.png",
     "static/media/earth_large.png": "/static/media/earth_large.6f332154fca65571be71.png",
     "static/media/2.jpg": "/static/media/2.cd9f827568c3e0d364ee.jpg",
     "static/media/4.jpg": "/static/media/4.974048c0bd8be7479afe.jpg",
-    "static/media/section-background.png": "/static/media/section-background.c2123a206da14afc8f9e.png",
     "static/media/3.jpg": "/static/media/3.cc5a6f415bdbccfa46b6.jpg",
     "static/media/earth_3.png": "/static/media/earth_3.e35ac3da545989a055f3.png",
     "static/media/earth_5.png": "/static/media/earth_5.dd985c124fe26e546466.png",
     "static/media/earth_2.png": "/static/media/earth_2.5aba1c5d8e4616226cdc.png",
     "static/media/earth_6.png": "/static/media/earth_6.53b4d9c837954dc6caf1.png",
+    "static/media/approach-map.jpg": "/static/media/approach-map.33cd377f134c2ac9e429.jpg",
     "static/media/earth_4.png": "/static/media/earth_4.e3c0e6f4e4dea9e3b8ad.png",
     "static/media/Baba-Gian-Singh-Ji.png": "/static/media/Baba-Gian-Singh-Ji.2116c4be0f2e79076d27.png",
     "static/media/Baba-Harbhajan-Singh-Ji.png": "/static/media/Baba-Harbhajan-Singh-Ji.1709f7544b6cd732e151.png",
@@ -40,6 +40,7 @@
     "static/media/nbbp2009-1.jpg": "/static/media/nbbp2009-1.3935624e8e43d4a88de1.jpg",
     "static/media/Baba-Basant-Ji.jpg": "/static/media/Baba-Basant-Ji.4ee17f1718f048f4d78a.jpg",
     "static/media/nirmalas.jpg": "/static/media/nirmalas.6b02b7f9901d64b146c0.jpg",
+    "static/media/section-background.png": "/static/media/section-background.1ad80da1b2240d87cf1f.png",
     "static/media/nbbp2007-1.jpg": "/static/media/nbbp2007-1.c56696735bf4c6dd550a.jpg",
     "static/media/langar.jpg": "/static/media/langar.1563751fc18ec784a80c.jpg",
     "static/media/langarNew.jpg": "/static/media/langarNew.01e188e14d4c07f4d5d9.jpg",
@@ -61,8 +62,8 @@
     "index.html": "/index.html",
     "static/media/right-icon.svg": "/static/media/right-icon.57ce8960ea5a00625146.svg",
     "static/media/down-icon.svg": "/static/media/down-icon.1934aa63141a9ec1c1e2.svg",
-    "main.0671e6c8.css.map": "/static/css/main.0671e6c8.css.map",
-    "main.9cc6ca4f.js.map": "/static/js/main.9cc6ca4f.js.map",
+    "main.ee2511ed.css.map": "/static/css/main.ee2511ed.css.map",
+    "main.106eb034.js.map": "/static/js/main.106eb034.js.map",
     "reactPlayerYouTube.cbf29056.chunk.js.map": "/static/js/reactPlayerYouTube.cbf29056.chunk.js.map",
     "reactPlayerSoundCloud.493001d7.chunk.js.map": "/static/js/reactPlayerSoundCloud.493001d7.chunk.js.map",
     "reactPlayerVimeo.868b9a7d.chunk.js.map": "/static/js/reactPlayerVimeo.868b9a7d.chunk.js.map",
@@ -79,7 +80,7 @@
     "787.b27e6ff2.chunk.js.map": "/static/js/787.b27e6ff2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0671e6c8.css",
-    "static/js/main.9cc6ca4f.js"
+    "static/css/main.ee2511ed.css",
+    "static/js/main.106eb034.js"
   ]
 }
